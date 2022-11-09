@@ -1,2 +1,2 @@
-# HSKTools
-A website providing tools for students studying Mandarin under the HSK system
+# landing-page
+Landing page exercise from The Odin Project
